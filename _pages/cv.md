@@ -84,7 +84,7 @@ marginalized groups to promote more diversity applications and acceptances acros
 - Taught workshops on PowerPoint, Excel, resume-building, and client interaction to CYC members
 - Worked closely with CYC leadership to source consulting clients and build professional relationships
 
-#### Sports Reporter - Berkeley, CA 
+### Sports Reporter - Berkeley, CA 
 #### The Daily Californian 
 #### Sep 2017 – Dec 2019 
 - Covered UC Berkeley athletics by writing weekly articles and athlete features for Cal’s Basketball team
