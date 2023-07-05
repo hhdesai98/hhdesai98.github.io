@@ -16,7 +16,7 @@ harshildesai18@gmail.com
 - University of Washington, Seattle — Statistics, M.S.
 - University of California, Berkeley — Applied Mathematics, B.A.
   - Data Science Minor
-- Relevant Coursework: Machine Learning, Data Visualization, Bayesian Inference, Convex Optimization, Advanced Statistical Inference, Advanced Linear Models, Macro/Micro-Economics
+- Relevant Coursework: Machine Learning, Data Visualization, Bayesian Inference, Convex Optimization, Advanced Statistical Inference, Advanced Linear Models, Time Series Analysis, Macro/Micro-Economics
 
 ## WORK EXPERIENCE
 ### Statistics Instructor - Seattle, WA
