@@ -43,7 +43,8 @@ harshildesai18@gmail.com
 ### CYC Project Manager - Berkeley, CA 
 #### Good Food Institute (GFI) 
 #### September 2019 – December 2019 
-- Led a team of 5 CYC members working with GFI, a non-profit focused on promoting meat alternatives ▪ Researched and analyzed potential clients for GFI, building a comprehensive list with 100+ companies
+- Led a team of 5 CYC members working with GFI, a non-profit focused on promoting meat alternatives 
+- Researched and analyzed potential clients for GFI, building a comprehensive list with 100+ companies
 - Created a detailed scoring rubric to outline clients and their strengths in the plant-based food market
 - Worked closely with senior GFI members to outline strategies for outreach to potential new partners
 
@@ -91,5 +92,5 @@ marginalized groups to promote more diversity applications and acceptances acros
 - Utilized background in statistics to create analytical pieces on NBA players and trends
 
 ## SKILLS & INTERESTS
-- Skills: Python, C++, R, SQL, Sklearn, Bayesian Inference, MATLAB, Intermediate Spanish
-- Interests: New York Times Daily Crossword, NBA,Running, Hiking, Reading
+- Skills: Python, C++, R, SQL, MATLAB, sklearn, STAN, Tableau, Bayesian Inference, Hypothesis Testing, Intermediate Spanish
+- Interests: NYT Daily Crossword, NBA, Running, Hiking, Reading
