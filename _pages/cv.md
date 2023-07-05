@@ -10,18 +10,18 @@ redirect_from:
 {% include base_path %}
 
 # Harshil Desai
-(805) 501-9141 | 3432 1⁄2 9th Ave W, Seattle, WA 98119 | harshildesai18@gmail.com
+harshildesai18@gmail.com
 
 ## EDUCATION
 - University of Washington, Seattle — Statistics, M.S.
 - University of California, Berkeley — Applied Mathematics, B.A.
-- Data Science Minor
+  - Data Science Minor
 - Relevant Coursework: Machine Learning, Data Visualization, Bayesian Inference, Convex Optimization, Advanced Statistical Inference, Advanced Linear Models, Macro/Micro-Economics
 
 ## WORK EXPERIENCE
 ### Statistics Instructor, Seattle, WA
-- University of Washington, Seattle
-- Jun 2022 – Aug 2022, Jun 2023 – Aug 2023
+#### University of Washington, Seattle
+#### Jun 2022 – Aug 2022, Jun 2023 – Aug 2023
 - Served as the main instructor for Math Probability II during the 2022 and 2023 UW Summer Quarters
 - Taught 55 students in lecture setting 3 times a week, creating custom lectures and lesson plans
 - Managed and supervised course graders, leading weekly meetings about course content and expectations
