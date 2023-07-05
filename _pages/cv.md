@@ -40,6 +40,13 @@ harshildesai18@gmail.com
 - Conducted variable analysis and data visualization using Python and R to analyze significant parameters
 - Aided in creating a comprehensive business model validation report to guide further model engineering
 
+### CYC Project Manager - Berkeley, CA 
+#### Good Food Institute (GFI) 
+#### September 2019 – December 2019 
+- Led a team of 5 CYC members working with GFI, a non-profit focused on promoting meat alternatives ▪ Researched and analyzed potential clients for GFI, building a comprehensive list with 100+ companies
+- Created a detailed scoring rubric to outline clients and their strengths in the plant-based food market
+- Worked closely with senior GFI members to outline strategies for outreach to potential new partners
+
 ## PROJECTS
 ### All-NBA Classification Model
 #### Jun 2023
@@ -61,6 +68,13 @@ harshildesai18@gmail.com
 - Created weekly reading and research plans to guide students in their first academic-type presentations
 - Coordinated with DRP organizers to promote and increase program participation and engagement
 
+### PARS Volunteer - Seattle, WA 
+#### University of Washington, Seattle 
+#### Sep 2022 – Dec 2022
+- Served as a Pre-Application Review Service reader, helping edit graduate applications from historically
+marginalized groups to promote more diversity applications and acceptances across universities
+- Meet with students weekly to provide one on one guidance and tailored application advice
+
 ### Vice President of Engagements
 #### Consult Your Community – Berkeley Chapter (CYC)
 #### Jan 2020 – Sept 2020
@@ -68,6 +82,13 @@ harshildesai18@gmail.com
 - Helped lead 35+ members, overseeing recruitment, interviews, and communicating with CYC nationals
 - Taught workshops on PowerPoint, Excel, resume-building, and client interaction to CYC members
 - Worked closely with CYC leadership to source consulting clients and build professional relationships
+
+#### Sports Reporter - Berkeley, CA 
+#### The Daily Californian 
+#### Sep 2017 – Dec 2019 
+- Covered UC Berkeley athletics by writing weekly articles and athlete features for Cal’s Basketball team
+- Built relationships with sports coaches and athletes through recurring phone and in-person interviews
+- Utilized background in statistics to create analytical pieces on NBA players and trends
 
 ## SKILLS & INTERESTS
 - Skills: Python, C++, R, SQL, Sklearn, Bayesian Inference, MATLAB, Intermediate Spanish
