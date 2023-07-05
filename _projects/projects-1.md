@@ -6,8 +6,6 @@ collection: projects
 
 See my github page [here](https://github.com/hhdesai98/nba_classification)
 
-# All-NBA Classification Project
-
 ### Project Goals
 
 In this project I aim to create a classifier to predict whether a given NBA player will be All-NBA or not at the end of season. All-NBA honors are given at the end of each NBA season, where 3 teams are constructed: 1st Team All-NBA, 2nd Team All-NBA, and 3rd Team All-NBA. Each team consists of 2 guards, 2 forwards and 1 center. Awards are voted on based by various media members and outlets selected by the NBA.
