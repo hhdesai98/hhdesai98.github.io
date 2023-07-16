@@ -4,7 +4,7 @@ excerpt: "Univariate Logistic Regression Model Selection"
 collection: projects
 ---
 
-See my github page [here](https://github.com/hhdesai98/mcmc_ variable_selecton)
+See my github page [here](https://github.com/hhdesai98/mcmc_variable_selection)
 
 # Logistic Variable MCMC Selection
 
