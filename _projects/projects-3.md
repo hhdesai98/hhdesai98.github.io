@@ -1,6 +1,6 @@
 ---
 title: "MCMC Variable Selection"
-excerpt: "Prepared Lecture notes for UW Stat 395"
+excerpt: "Univariate Logistic Regression Model Selection"
 collection: projects
 ---
 
