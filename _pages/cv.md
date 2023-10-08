@@ -19,6 +19,14 @@ harshildesai18@gmail.com
 - Relevant Coursework: Machine Learning, Data Visualization, Bayesian Inference, Convex Optimization, Advanced Statistical Inference, Advanced Linear Models, Time Series Analysis, Macro/Micro-Economics
 
 ## WORK EXPERIENCE
+
+### Statistical Consultant - Seattle, WA
+#### University of Washington, Seattle
+#### Sep 2023 - Present
+- Provide expert statistical guidance on study design, data analysis, and visualization for UW Researchers
+- Craft compelling data visualizations to facilitate effective communication of research outcomes
+- Collaborate to develop tailored statistical solutions, fostering innovative problem-solving approaches
+
 ### Statistics Instructor - Seattle, WA
 #### University of Washington, Seattle
 #### Jun 2022 – Aug 2022, Jun 2023 – Aug 2023
@@ -28,7 +36,7 @@ harshildesai18@gmail.com
 
 ### Head Teaching Assistant - Seattle, WA
 #### University of Washington, Seattle
-#### Sep 2021 – Present
+#### Mar 2022 – Jun 2023
 - Teach biweekly sections for Elements of Statistical Methods and Probability in 30-50 student classrooms
 - Prepare interactive lesson plans and tutorials for statistics applications in RStudio and Python
 - Strengthen students’ statistical skills by writing parallel problems and mental frameworks
