@@ -13,6 +13,7 @@ redirect_from:
 harshildesai18@gmail.com
 
 ## EDUCATION
+- University of Washington, Seattle — Statistics, Ph.D. Sep 2021 - June 2026 (Planned)
 - University of Washington, Seattle — Statistics, M.S.
 - University of California, Berkeley — Applied Mathematics, B.A.
   - Data Science Minor
